@@ -1,1 +1,1 @@
-# Spor--ye-takip-sistemi
+# Spor-uye-takip-sistemi
